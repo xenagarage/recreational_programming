@@ -1,5 +1,3 @@
-1st Algorithm: Orchard Division
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
@@ -141,9 +139,9 @@ The orchard should be divided according to the following scheme, the qualities o
 <hr>
 <h3>Public data</h3>
 <p align="justify">
-The public data set is intended for easier debugging and approximate program correctness checking.
+https://github.com/user-attachments/files/17341067/datapub.zip
 </p>
-<a href="https://github.com/user-attachments/files/17341028/datapub.zip"><h3>Public data set</h3></a>
+
 </div>
 </body>
 
