@@ -143,7 +143,8 @@ The orchard should be divided according to the following scheme, the qualities o
 <p align="justify">
 The public data set is intended for easier debugging and approximate program correctness checking.
 </p>
-<a href="getdata.php?task=orcharddivision_py&item=datapub.zip"><h3>Public data set</h3></a>
+<a href="https://github.com/user-attachments/files/17341028/datapub.zip"><h3>Public data set</h3></a>
 </div>
 </body>
+
 </html>
